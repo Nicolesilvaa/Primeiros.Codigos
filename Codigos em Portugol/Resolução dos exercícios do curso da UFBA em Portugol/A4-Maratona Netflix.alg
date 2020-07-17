@@ -12,10 +12,5 @@ inicio
          Leia(Segun,Terc,Quart,Quint,Sext)
                  Soma<- (Segun+Terc+Quart+Quint+Sext)*2
                      Escreval("Suas horas semanais foram : ",Segun," ",Terc," ",Quart," ",Quint," ",Sext)
-                         Escreval("Suas horas de lazer disponíveis para serem resgatadas são de: " ,Soma ,"Hrs")
-
-      
-
-
-
+                         Escreval("Suas horas de lazer disponï¿½veis para serem resgatadas sï¿½o de: " ,Soma ,"Hrs")
 fimalgoritmo

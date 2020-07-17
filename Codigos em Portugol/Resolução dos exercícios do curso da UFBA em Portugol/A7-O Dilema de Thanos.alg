@@ -7,8 +7,8 @@ var
 
 inicio
 
-      Escreval("Qual Número da população de todo o Universo? ")
-          Leia(N)
+      Escreval("Qual Nï¿½mero da populaï¿½ï¿½o de todo o Universo? ")
+            Leia(N)
                 Se N mod 2 = 0 Entao
                     Escreval(N," " ,"Thanos nao poupara o Universo.")
                       Senao

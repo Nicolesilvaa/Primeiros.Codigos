@@ -9,12 +9,12 @@ inicio
 
   Escreval(" Quantas pessoas tem na fila?  " )
            Leia(Numero_Clientes)
-     Escreval(" Quantos produtos cada cliente carrega? ")
-                  leia(Quantidade_Produtos)
+             Escreval(" Quantos produtos cada cliente carrega? ")
+                leia(Quantidade_Produtos)
       
-                    Soma <- Quantidade_Produtos * Numero_Clientes
-                     Tempo_Perdido <- Soma * 2
+                   Soma <- Quantidade_Produtos * Numero_Clientes
+                   Tempo_Perdido <- Soma * 2
       
-                        Escreval("O tempo perdido no mercado é : ", Tempo_Perdido)
+                      Escreval("O tempo perdido no mercado ï¿½ : ", Tempo_Perdido)
 
 fimalgoritmo

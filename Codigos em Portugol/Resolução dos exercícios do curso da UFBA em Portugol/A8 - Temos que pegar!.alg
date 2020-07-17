@@ -5,9 +5,9 @@ var
       soma, Especies_disponiveis,Quantidade_pokebolas:real
 inicio
 
-       Escreval("Quantas especies estão disponiveis?")
+       Escreval("Quantas especies estï¿½o disponiveis?")
          Leia(Especies_disponiveis)
-            Escreval("Quantas pokebolas estão disponiveis?")
+            Escreval("Quantas pokebolas estï¿½o disponiveis?")
                  Leia(Quantidade_pokebolas)
                       se Especies_disponiveis = Quantidade_pokebolas entao
                           Escreval("Ok!")
@@ -17,12 +17,5 @@ inicio
                                         senao Especies_disponiveis  > Quantidade_pokebolas entao
                                             escreval(Especies_disponiveis - Quantidade_pokebolas)
                                                   fimse
-
-
-
-
-
-
-
 fimalgoritmo
 

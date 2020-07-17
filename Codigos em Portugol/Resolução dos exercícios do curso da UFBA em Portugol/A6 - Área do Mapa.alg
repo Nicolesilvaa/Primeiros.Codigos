@@ -1,4 +1,4 @@
-algoritmo "A6-Área do Mapa"
+algoritmo "A6-ï¿½rea do Mapa"
 // Data : 17/07/2020
 
 var
@@ -7,11 +7,10 @@ var
 
 inicio
 
-      Escreval("Digite a Largura e o Comprimento do mapa em questão: ")
+      Escreval("Digite a Largura e o Comprimento do mapa em questï¿½o: ")
          Leia(L,C)
             area<- L*C
                 Escreval("Os valores digitados foram :")
                 Escreval("Largura =  " , L ," ", "Comprimento = " , C)
-                   Escreval(" A área do mapa é de: " , area)
-
+                   Escreval(" A ï¿½rea do mapa ï¿½ de: " , area)
 fimalgoritmo
