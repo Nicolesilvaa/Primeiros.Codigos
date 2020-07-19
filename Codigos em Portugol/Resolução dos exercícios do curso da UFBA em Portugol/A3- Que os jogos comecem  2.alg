@@ -11,18 +11,18 @@ inicio
 
 
 
-      Escreval("Observe as expressões a seguir:")
-      Escreval(" Questão 1: X+(54 * (43 * 2) + (y + 43))")
-      Escreval("Questão 2: Y * (24 * (12 * 3) – (x + 43)) ")
+      Escreval("Observe as expressï¿½es a seguir:")
+      Escreval(" Questï¿½o 1: X+(54 * (43 * 2) + (y + 43))")
+      Escreval("Questï¿½o 2: Y * (24 * (12 * 3) ï¿½ (x + 43)) ")
       Escreval("Defina X e Y : ")
-                Leia(X, Y)
-                        Escreval("Os Números escolhidos foram: ", X  , " e " , Y)
+      Leia(X, Y)
+      Escreval("Os Nï¿½meros escolhidos foram: ", X  , " e " , Y)
 
-                                     Q1<- X+(54 *(43 * 2)+(Y + 43))
-                                     Q2<- Y*(24 *(12 * 3)-(X + 43))
-                                     TOTAL<- Q1+Q2
+          Q1<- X+(54 *(43 * 2)+(Y + 43))
+          Q2<- Y*(24 *(12 * 3)-(X + 43))
+          TOTAL<- Q1+Q2
                                           
-                                                  Escreval(" Resultado da primeira questão é: ", Q1)
-                                                  Escreval("Resultado da segunda questão é: " , Q2)
-                                                  Escreval("Resultado final é: " , TOTAL)
+      Escreval(" Resultado da primeira questï¿½o ï¿½: ", Q1)
+      Escreval("Resultado da segunda questï¿½o ï¿½: " , Q2)
+      Escreval("Resultado final ï¿½: " , TOTAL)
 fimalgoritmo

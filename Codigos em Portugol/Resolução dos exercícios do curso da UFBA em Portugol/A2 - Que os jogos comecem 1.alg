@@ -8,9 +8,10 @@ var
 inicio
 
       Escreval("Observe a Express�o a seguir, e digite o valor de X : X+(25-1+(-11+3)+4) ")
-          Leia(X)
-                 Soma<- X+(25-1+(-11+3)+4)
-                        Escreval(" O valor escolhido para corresponder a X � : ", x)
-                        Escreval(" O Resultado da Quest�o �: ", Soma)
+      Leia(X)
 
+        soma<- X+(25-1+(-11+3)+4)
+
+      Escreval(" O valor escolhido para corresponder a X � : ", x)
+      Escreval(" O Resultado da Quest�o �: ", Soma)
 fimalgoritmo

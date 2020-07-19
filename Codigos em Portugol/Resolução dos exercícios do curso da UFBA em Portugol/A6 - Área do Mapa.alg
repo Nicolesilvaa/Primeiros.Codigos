@@ -8,9 +8,11 @@ var
 inicio
 
       Escreval("Digite a Largura e o Comprimento do mapa em quest�o: ")
-         Leia(L,C)
-            area<- L*C
-                Escreval("Os valores digitados foram :")
-                Escreval("Largura =  " , L ," ", "Comprimento = " , C)
-                   Escreval(" A �rea do mapa � de: " , area)
+      Leia(L,C)
+      
+         area<- L*C
+
+         Escreval("Os valores digitados foram :")
+         Escreval("Largura =  " , L ," ", "Comprimento = " , C)
+         Escreval(" A �rea do mapa � de: " , area)
 fimalgoritmo
