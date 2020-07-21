@@ -1,4 +1,4 @@
-algoritmo "Operões Matematicas"
+algoritmo "Operadores Matematicos"
 
 var
    A: Inteiro
@@ -6,12 +6,12 @@ var
 
 inicio
 
-     A<-abs(-50)
+     A <- abs(-50)
               escreval(A)
-     B<-exp(5,2)
+     B <- exp(5,2)
               escreval(B)
-     C<-RaizQ(9)
+     C <- RaizQ(9)
              escreval(C)
-     D<-Int(Raizq(81))
+     D <- Int(Raizq(81))
              escreval(D)
 fimalgoritmo
