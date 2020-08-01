@@ -1,4 +1,4 @@
-Algoritmo ""
+Algoritmo "Soma e Multiplica√ß√£o de 4 inteiros"
 
 // Data : 27/07/2020
 
@@ -25,9 +25,9 @@ Multi_AD <- A * D
 Multi_BC <- B * C
 Multi_BD <- B * D
 Multi_CD <- C * D
-Escreval(" O resultado da soma entre os valor È de : ")
+Escreval(" O resultado da soma entre os valor ÔøΩ de : ")
 Escreval(Soma_AB ,Soma_AC , Soma_AD , Soma_BC ,Soma_BD,Soma_CD )
-Escreval(" O resultado da multiplicaÁ„o entre os valores È de ")
+Escreval(" O resultado da multiplicaÔøΩÔøΩo entre os valores ÔøΩ de ")
 Escreval(Multi_AB ,Multi_AC ,Multi_AD ,Multi_BC ,Multi_BD , Multi_CD)
 
 Fimalgoritmo
