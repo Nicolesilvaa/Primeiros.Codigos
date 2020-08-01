@@ -6,9 +6,9 @@ var
     x, y: inteiro
     Procedimento Soma(A,B : inteiro)
     inicio
-       Escreval("Recebi o valor" , A)
-        Escreval("Recebi o valor" , b)
-         Escreval("A soma entre os dois e " , A + B)
+    Escreval("Recebi o valor" , A)
+    Escreval("Recebi o valor" , b)
+     Escreval("A soma entre os dois e " , A + B)
     fimprocedimento
 inicio
       x <- 5

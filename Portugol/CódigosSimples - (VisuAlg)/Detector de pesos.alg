@@ -1,5 +1,4 @@
 algoritmo "DetectorPesado"
-
 var
 I: Inteiro
 N, Pesado: Caractere
@@ -12,10 +11,8 @@ EscrevaL(" D E T E C T O R   DE   P E S A D O ")
 EscrevaL(" Maior Peso ate agora: ", Mai, "Kg")
 EscrevaL("------------------------------------")
 Fimprocedimento
-
 Inicio
 Teste()
-
 Para I <- 1 ate 5 faca
    Escreva("Digite o nome: ")
    Leia(N)

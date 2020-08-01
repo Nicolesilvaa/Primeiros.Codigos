@@ -13,14 +13,13 @@ inicio
          Leia(L2)
          Escreval("Digite o terceiro lado: ")
          Leia(L3)
-         
          TRI<-  (L1<L2+L3)  E (L2<L1+L3) E (L3< L2+L1)
          EQ<- (L1=L2)e(L2=L3)
          ES <- (L1 <> L2) e (L2<>L3) e (L1<>L3)
          IS<- (L1=L2) E (L2<>L3)E (L1<L2+L3)  E (L2<L1+L3) E (L3< L2+L1)
          Escreval ("Pode Formar um triangulo? ", TRI)
-         Escreval(" O triangulo é Equilatero?  " ,EQ)
-         Escreval("O Triangulo é escaleno ?  " ,ES)
-         Escreval("O triangulo é isóceles ? ", IS)
+         Escreval(" O triangulo ï¿½ Equilatero?  " ,EQ)
+         Escreval("O Triangulo ï¿½ escaleno ?  " ,ES)
+         Escreval("O triangulo ï¿½ isï¿½celes ? ", IS)
 
 fimalgoritmo
