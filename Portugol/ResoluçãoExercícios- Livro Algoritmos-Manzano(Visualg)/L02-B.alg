@@ -1,4 +1,4 @@
-Algoritmo "Módulo de um número"
+Algoritmo "Mï¿½dulo de um nï¿½mero"
 
 // Data : 29/07/2020
 
@@ -18,7 +18,7 @@ Se (N >0)  Entao
 Senao
    Se (N < 0) Entao
       Soma <- N * -1
-      Escreval(Soma)
+      Escreval("O mÃ³dulo do nÃºmero ",N, " Ã© ",Soma)
    Fimse
 Fimse
 
