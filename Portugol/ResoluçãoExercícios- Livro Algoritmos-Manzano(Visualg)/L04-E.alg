@@ -8,13 +8,14 @@ S,F,C:Real
 inicio
 C <- 0
 F <- 1
+S <- 0
 Repita
    C <- C + 1
    F <- F * C
-   Escreval("O fatorial de ",C, " é ", F )
+   Escreval("O fatorial de ",C, " ï¿½ ", F )
    S <- S + F
 Ate C >= 15
-Escreval("A soma dos Fatoriais é ", S)
+Escreval("A soma dos Fatoriais ï¿½ ", S)
 fimalgoritmo
 
 
