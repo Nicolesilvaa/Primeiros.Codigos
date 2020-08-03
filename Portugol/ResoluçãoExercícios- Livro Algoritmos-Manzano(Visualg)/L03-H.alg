@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Graus Celsius para Fahrenheit"
 
 // Data : 31/07/2020
 

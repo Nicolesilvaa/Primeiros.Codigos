@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Divisao de N"
 
 // Data : 02/08/2020
 

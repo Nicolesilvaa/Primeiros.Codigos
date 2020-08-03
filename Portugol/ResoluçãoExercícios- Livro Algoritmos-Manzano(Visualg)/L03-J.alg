@@ -1,7 +1,7 @@
-algoritmo "semnome"
+algoritmo " numeros pares entree 50 e 70"
 
 // Data : 01/08/2020
-// 11 numeros pares entree 50 e 70
+
 var
 
 NPar,Cont,S:Inteiro
@@ -23,8 +23,8 @@ Enquanto Cont <= 70 Faca
    Fimse
 Fimenquanto
 
-Escreval(" Existem ",  NPar , " Números Pares")
-Escreval("A soma dos números pares entre 50 e 70 é ", S)
-Escreval("A media dos números pares é ", M)
+Escreval(" Existem ",  NPar , " Nï¿½meros Pares")
+Escreval("A soma dos nï¿½meros pares entre 50 e 70 ï¿½ ", S)
+Escreval("A media dos nï¿½meros pares ï¿½ ", M)
 
 fimalgoritmo
