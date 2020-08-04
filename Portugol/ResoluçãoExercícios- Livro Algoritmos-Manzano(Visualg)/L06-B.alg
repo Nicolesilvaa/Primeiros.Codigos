@@ -1,4 +1,4 @@
-algoritmo "10 elementos de um Vetor"
+algoritmo "Multiplicacao de dois vetores"
 
 // Data : 04/08/2020
 
@@ -17,8 +17,8 @@ Para Cont de 1 ate 8 passo 1 faca
 FimPara
 LimpaTela
 Para Cont de 1 ate 8 passo 1 faca
-   Escreval("O valor", Cont, " é ",A[Cont])
-   Escreval("O valor", Cont, " multiplicado por 3 é ",B[Cont])
+   Escreval("O valor", Cont, " ï¿½ ",A[Cont])
+   Escreval("O valor", Cont, " multiplicado por 3 ï¿½ ",B[Cont])
 
 Fimpara
 fimalgoritmo
