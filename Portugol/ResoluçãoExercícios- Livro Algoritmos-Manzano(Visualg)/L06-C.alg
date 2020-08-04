@@ -1,4 +1,4 @@
-algoritmo "Subtracao de doi Vetores"
+algoritmo "Subtracao de dois Vetores"
 
 // Data : 04/08/2020
 
