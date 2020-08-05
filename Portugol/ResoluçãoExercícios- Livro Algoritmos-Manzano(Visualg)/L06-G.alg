@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "Inverte valor de vetor a em vetor b"
 
 // Data : 05/08/2020
 
