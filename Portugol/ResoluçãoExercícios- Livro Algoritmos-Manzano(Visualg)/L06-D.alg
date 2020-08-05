@@ -9,15 +9,15 @@ Cont :Inteiro
 inicio
 Potencia <-0
 Cont <-0
-Para Cont dE 1 ate 14 passo 1 faca
-   Escreval("Digite um valor ")
+Escreval("Digite 14 valores ")
+Para Cont de 1 ate 14 passo 1 faca
    Leia(A[Cont])
    Potencia <- Exp(A[Cont],2)
    B[Cont] <- Potencia
 Fimpara
 LimpaTela
 Para Cont De 1 Ate 14 passo 1 faca
-   Escreval(Cont,"°  Valor é ", A[Cont])
+   Escreval(Cont,"ï¿½  Valor ï¿½ ", A[Cont])
    Escreval (A[Cont]," ^ 2 =  ", B[Cont])
    Escreval("                         ")
 Fimpara

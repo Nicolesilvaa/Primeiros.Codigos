@@ -9,8 +9,8 @@ A,B :Vetor[1..8] de Inteiro
 
 inicio
 Cont <-0
+Escreval("Digite 8 valores")
 Para Cont de 1 ate 8 passo 1 faca
-   Escreval("Digite um valor")
    Leia(A[Cont])
    S <- A[Cont] * 3
    B[Cont] <- S

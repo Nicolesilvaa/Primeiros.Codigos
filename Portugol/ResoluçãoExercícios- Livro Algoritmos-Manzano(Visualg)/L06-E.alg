@@ -11,12 +11,12 @@ Cont:Inteiro
 
 inicio
 Cont <-0
+Escreval("Determine 15 valores para A")
 Para Cont de 1 ate 15 passo 1 faca
-   Escreval("Determine um valor para A")
    Leia(A[Cont])
 Fimpara
+Escreval("Determine 15 valores para B")
 Para Cont de 1 ate 15 passo 1 faca
-   Escreval("Determine um valor para B")
    Leia(B[Cont])
 Fimpara
 Para Cont de 1 ate 15 passo 1 faca
@@ -26,7 +26,8 @@ Para Cont de 1 ate 15 passo 1 faca
    FimSe
 Fimpara
 LimpaTela
+Escreval("Os valores de A e B sï¿½o: ")
 Para Cont de 1 ate 30 passo 1 faca
-   Escreval("Os valores de A e B são: ",C[Cont])
+   Escreval(C[Cont])
 Fimpara
 fimalgoritmo
