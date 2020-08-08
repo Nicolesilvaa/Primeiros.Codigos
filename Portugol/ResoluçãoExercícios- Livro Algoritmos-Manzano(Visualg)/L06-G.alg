@@ -14,10 +14,8 @@ Fimpara
 LimpaTela
 Escreval("   Matriz A","   Matriz B")
 Para Cont de 20 ate 1 passo -1 faca
-   Se (A[Cont]<>B[Cont]) entao
       n <- n + 1
       B[Cont] <- A[n]
       Escreval(A[Cont]:10,B[Cont]:10)
-   FimSe
 FimPara
 fimalgoritmo

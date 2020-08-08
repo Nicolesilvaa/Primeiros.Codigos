@@ -22,15 +22,11 @@ Para Cont de 1 ate 30 passo 1 faca
    Leia(B[Cont])
 Fimpara
 Para Cont de 1 ate 20 passo 1 faca
-   Se(A[Cont]<>B[Cont])entao
       C[Cont] <- A[Cont]
       C[Cont + 30] <- B[Cont]
-   Senao
-      C[Cont] <- A[Cont]
-   FimSe
 Fimpara
 LimpaTela
-Escreval("Os valores de A e B são: ")
+Escreval("Os valores de A e B sï¿½o: ")
 Para Cont de 1 ate 50 passo 1 faca
    Escreval(C[Cont])
 Fimpara

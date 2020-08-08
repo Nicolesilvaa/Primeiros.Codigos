@@ -31,11 +31,10 @@ Fimpara
 Limpatela
 
 Para Cont de 1 ate 5 passo 1 faca
-   Se(A[Cont]<>B[Cont])e(B[Cont]<>C[Cont])e A[Cont]<>C[Cont]entao
       D[Cont] <- A[Cont]
       D[Cont + 5] <- B[Cont]
       D[Cont + 10] <- C[Cont]
-   FimSe
+
 Fimpara
 LimpaTela
 

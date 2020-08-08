@@ -20,10 +20,8 @@ Para Cont de 1 ate 15 passo 1 faca
    Leia(B[Cont])
 Fimpara
 Para Cont de 1 ate 15 passo 1 faca
-   Se(A[Cont]<>B[Cont])entao
       C[Cont] <- A[Cont]
       C[Cont + 15] <- B[Cont]
-   FimSe
 Fimpara
 LimpaTela
 Escreval("Os valores de A e B s�o: ")
