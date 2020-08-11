@@ -1,11 +1,11 @@
-algoritmo "Todo elemento da matriz A que possuir índice par deverá ter seu elemento dividido por 2; caso contrário, o elemento da matriz A deverá ser multiplicado por 1.5"
+algoritmo "Todo elemento da matriz A que possuir ï¿½ndice par deverï¿½ ter seu elemento dividido por 2; caso contrï¿½rio, o elemento da matriz A deverï¿½ ser multiplicado por 1.5"
 
 // Data : 08/08/2020
 
 var
 A,B :Vetor[1..6] de inteiro
 C :Vetor[1..12] de inteiro
-P,I,Cont:Inteiro
+Cont:Inteiro
 inicio
 Cont <-0
 Escreval("Digite 6 valores para A")
@@ -14,11 +14,10 @@ Para Cont de 1 ate 6 passo 1 faca
    Se(A[Cont] % 2 = 0 )Entao
       C[Cont] <-A[Cont]
    Senao
-      Timer(400)
       LimpaTela
       Timer(500)
       Escreval("                                      ")
-      Escreval("A variavel [A] só aceita valores pares")
+      Escreval("A variavel [A] sï¿½ aceita valores pares")
       Escreval("                                      ")
       LimpaTela
       Escreval("Digite outros valores")
@@ -37,11 +36,10 @@ Para Cont de 1 ate 6 passo 1 faca
    Se(B[Cont] % 2 = 1)Entao
       C[Cont + 6] <-B[Cont]
    Senao
-      Timer(400)
       LimpaTela
       Timer(500)
       Escreval("                                        ")
-      Escreval("A variavel [B] só aceita valores ímpares")
+      Escreval("A variavel [B] sï¿½ aceita valores ï¿½mpares")
       Escreval("                                       ")
       LimpaTela
       Escreval("Digite outros valores")
