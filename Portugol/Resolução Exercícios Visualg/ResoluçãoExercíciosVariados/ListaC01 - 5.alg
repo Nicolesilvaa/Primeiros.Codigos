@@ -1,16 +1,15 @@
-algoritmo "LC01-Quadrado de um nï¿½mero"
+algoritmo "LC01-Quinta parte de um n° real"
 
 // Data : 21/08/2020//
 var
-N,Expoent :Real
+N ,D:Real
 
 inicio
 N<- 0
-Expoent <- 0
 Escreval("Digite um valor Real: ")
 Leia(N)
-Expoent <- Exp(N,2)
+ D <- N /5
 LimpaTela
 EScreval("O valor digitado foi :", N)
-Escreval(N, " ^ 2 = ", Expoent)
+Escreval("A quinta parte de ", N, " é ", D)
 fimalgoritmo
