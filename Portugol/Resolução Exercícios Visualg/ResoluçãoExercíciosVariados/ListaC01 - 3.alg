@@ -1,4 +1,4 @@
-algoritmo "LC01-Ler e imprimir um inteiro"
+algoritmo "LC01-Soma Simples"
 
 // Data : 21/08/2020//
 var
@@ -15,5 +15,5 @@ Leia(N1, N2 , N3)
 S <- N1 + N2 + N3
 LimpaTela
 EScreval("Os valores digitados foram :", N1 , N2 , N3)
-Escreval("A soma dos valores é igual a : ", S)
+Escreval("A soma dos valores ï¿½ igual a : ", S)
 fimalgoritmo

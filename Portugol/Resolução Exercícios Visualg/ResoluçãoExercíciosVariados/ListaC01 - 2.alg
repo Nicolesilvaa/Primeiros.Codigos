@@ -1,4 +1,4 @@
-algoritmo "LC01-Ler e imprimir um inteiro"
+algoritmo "LC01-Ler e imprimir um Real"
 
 // Data : 21/08/2020//
 var
