@@ -1,4 +1,4 @@
-algoritmo "LC01-De  Celsius para Fahrenheit"
+algoritmo "LC01- Conversor De  Celsius para Fahrenheit"
 
 // Data : 21/08/2020//
 var
@@ -11,5 +11,5 @@ Escreval("Digite a temperatura atual : ")
 Leia(C)
 F <- C *(9.0/5.0) + 32.0
 LimpaTela
-Escreval( C, " graus Celsius é igual a ", F , " graus  Fahrenheit")
+Escreval( C, " graus Celsius ï¿½ igual a ", F , " graus  Fahrenheit")
 fimalgoritmo
