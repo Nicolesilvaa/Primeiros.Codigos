@@ -24,7 +24,9 @@
 
 ### _Autora:_ 
 
- * ![Nicole Silva ](https://github.com/Nicolesilvaa/):sparkles:
+  ![Nicole Silva ](https://github.com/Nicolesilvaa/)
   
- * _Contato_ :   [Email](Nicolesilva8144@gmail.com)
+ :octocat: _Contato_ :  
+ Email: Nicolesilva8144@gmail.com
+  
  
