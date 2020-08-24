@@ -24,9 +24,9 @@
 
 ### _Autora:_ 
 
-  ![Nicole Silva ](https://github.com/Nicolesilvaa/)
+ - ![Nicole Silva ](https://github.com/Nicolesilvaa/)
   
  :octocat: _Contato_ :  
- Email: Nicolesilva8144@gmail.com
+- Email: Nicolesilva8144@gmail.com
   
  
