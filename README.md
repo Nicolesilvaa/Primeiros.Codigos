@@ -3,7 +3,7 @@
 ***
 # _Primeiros Códigos_ :computer:
 ***
-## Resoluções de problemas simples de programação e listas de exercícios
+## Resoluções de problemas de programação e listas de exercícios
 
 ### _Status: Constante atualização_ :heavy_check_mark:
 
