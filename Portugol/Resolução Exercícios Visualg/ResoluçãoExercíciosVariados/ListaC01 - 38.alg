@@ -1,4 +1,4 @@
-algoritmo "Aumento no salario"
+algoritmo "LC01-Aumento no salario"
 
 // Data : 23/08/2020
 
@@ -12,5 +12,5 @@ inicio
  A <- 1 + 25/100
  S <- S  * A
  LimpaTela
- Escreval("O valor do salario com aumento de 25% é de :",S)
+ Escreval("O valor do salario com aumento de 25% ï¿½ de :",S)
 fimalgoritmo

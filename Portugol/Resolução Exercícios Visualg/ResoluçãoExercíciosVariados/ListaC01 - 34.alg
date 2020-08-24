@@ -1,4 +1,4 @@
-algoritmo "Area do circulo"
+algoritmo "LC01-Area do circulo"
 
 // Data : 23/08/2020
 
@@ -7,9 +7,9 @@ A,R :Real
 inicio
  A <-0
  R <-0
- Escreval("Digite o Raio do circulo em questão :")
+ Escreval("Digite o Raio do circulo em questï¿½o :")
  Leia(R)
  A <- Pi * exp(R,2)
  LimpaTela
- Escreval("A area do circulo em questão é igual a :",A)
+ Escreval("A area do circulo em questï¿½o ï¿½ igual a :",A)
 fimalgoritmo

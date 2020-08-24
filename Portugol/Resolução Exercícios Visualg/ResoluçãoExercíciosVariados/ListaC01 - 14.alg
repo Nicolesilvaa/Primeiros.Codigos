@@ -1,4 +1,4 @@
-algoritmo "De Graus para Radiano"
+algoritmo "LC01-Conversor De Graus para Radiano"
 // Data : 21/08/2020//
 var
 G,R:Real
@@ -10,5 +10,5 @@ Escreval("Digite a distancia atual : ")
 Leia(G)
 R <- G * Pi /180
 LimpaTela
-Escreval(G , " Graus é igual a ", R:3:2 , " Radianos")
+Escreval(G , " Graus ï¿½ igual a ", R:3:2 , " Radianos")
 fimalgoritmo

@@ -1,4 +1,4 @@
-algoritmo "Libras para Quilogramas"
+algoritmo "LC01 -Conversor de Libras para Quilogramas"
 // Data : 22/08/2020
 
 var
@@ -10,5 +10,5 @@ L <-0
 Escreval("Digite o valor em Libras " )
 Leia(L)
 K <- L * 0.45
-Escreval(L, " Libras em Quilogramas  é igual a : ", K:5:2)
+Escreval(L, " Libras em Quilogramas  ï¿½ igual a : ", K:5:2)
 fimalgoritmo

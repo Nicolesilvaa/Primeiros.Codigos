@@ -1,4 +1,4 @@
-algoritmo "Desconto de um produto"
+algoritmo "LC01-Desconto de um produto"
 
 // Data : 23/08/2020
 
@@ -12,5 +12,5 @@ inicio
  D <- 1 - 12/100
  P <- P * D
  LimpaTela
- Escreval("O valor do produto com desconto de 12% é :",P)
+ Escreval("O valor do produto com desconto de 12% ï¿½ :",P)
 fimalgoritmo

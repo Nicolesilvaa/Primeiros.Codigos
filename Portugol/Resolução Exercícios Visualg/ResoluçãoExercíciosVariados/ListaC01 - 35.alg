@@ -1,4 +1,4 @@
-algoritmo "hipotenusa de um triangulo"
+algoritmo "LC01-hipotenusa de um triangulo"
 
 // Data : 23/08/2020
 
@@ -14,5 +14,5 @@ inicio
  B <- Exp(B,2)
  H <- Raizq(A + B)
  LimpaTela
- Escreval("A hipotenusa do triangulo em questao é igual a :",H)
+ Escreval("A hipotenusa do triangulo em questao ï¿½ igual a :",H)
 fimalgoritmo

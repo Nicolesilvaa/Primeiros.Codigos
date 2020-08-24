@@ -1,4 +1,4 @@
-algoritmo "litros para metros cubicos  "
+algoritmo "LC01-Conversor de litros para metros cubicos  "
 // Data : 22/08/2020
 
 var
@@ -10,5 +10,5 @@ L <-0
 Escreval("Digite o valor em litros " )
 Leia(L)
 M <- L /1000
-Escreval(L, " litros em metros cubicos  é igual a : ", M)
+Escreval(L, " litros em metros cubicos  ï¿½ igual a : ", M)
 fimalgoritmo

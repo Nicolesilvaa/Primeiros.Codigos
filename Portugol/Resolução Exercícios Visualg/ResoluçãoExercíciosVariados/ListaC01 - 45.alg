@@ -1,4 +1,4 @@
-algoritmo "Converter letra maiuscula em minuscula"
+algoritmo "LC01-Converter letra maiuscula em minuscula"
 
 // Data : 23/08/2020
 
@@ -8,5 +8,5 @@ inicio
 Escreval("Digite um letra : ")
 leia(Mai)
 Min <- Minusc(Mai)
-Escreval("A letra [ ", Mai, " ] em sua forma minuscula é igual a [ ", Min , " ]")
+Escreval("A letra [ ", Mai, " ] em sua forma minuscula ï¿½ igual a [ ", Min , " ]")
 fimalgoritmo

@@ -1,4 +1,4 @@
-algoritmo "Conversor de real para dolar"
+algoritmo "LC01-Conversor de real para dolar"
 
 // Data : 22/08/2020
 
@@ -10,5 +10,5 @@ D <-0
 Escreval("Digite a quantia em real e o valor atual do dolar")
 Leia(R,D)
 C <- R * D
-Escreval("A quantia de ", R,"$ é igual a ",C, " dolares" )
+Escreval("A quantia de ", R,"$ ï¿½ igual a ",C, " dolares" )
 fimalgoritmo

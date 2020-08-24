@@ -1,4 +1,4 @@
-algoritmo "De M/s para Km/h"
+algoritmo "LC01-Conversor De M/s para Km/h"
 // Data : 21/08/2020//
 var
 
@@ -11,5 +11,5 @@ Escreval("Digite a velocidade atual : ")
 Leia(M)
 K <- M * 3.6
 LimpaTela
-Escreval(M , " m/s é ", K , " Km/h ")
+Escreval(M , " m/s ï¿½ ", K , " Km/h ")
 fimalgoritmo

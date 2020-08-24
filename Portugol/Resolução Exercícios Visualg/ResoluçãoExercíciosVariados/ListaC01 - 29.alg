@@ -1,4 +1,4 @@
-algoritmo "media aritmetica"
+algoritmo "LC01-media aritmetica"
 // Data : 22/08/2020
 
 var
@@ -15,5 +15,5 @@ Leia(N1,N2,N3,N4)
 M <- N1 + N2 + N3 + N4/4
 LimpaTela
 Escreval("As notas digitadas foram :", N1 , N2 , N3, N4 )
-Escreval("A media final é :", M)
+Escreval("A media final ï¿½ :", M)
 fimalgoritmo

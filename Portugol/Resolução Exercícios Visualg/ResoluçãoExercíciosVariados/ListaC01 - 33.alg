@@ -1,4 +1,4 @@
-algoritmo "Area de um quadrado"
+algoritmo "LC01-Area de um quadrado"
 
 // Data : 22/08/2020
 
@@ -12,6 +12,6 @@ Escreval("Digite o lado do quadrado")
 Leia(L)
 A <- Exp( L , 2)
 LimpaTela
-Escreval("A área do quadrado em questaõ é :" , A )
+Escreval("A ï¿½rea do quadrado em questaï¿½ ï¿½ :" , A )
 
 fimalgoritmo

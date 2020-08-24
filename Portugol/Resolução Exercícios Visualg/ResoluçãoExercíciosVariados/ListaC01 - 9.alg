@@ -1,4 +1,4 @@
-algoritmo "LC01-De Celsius para Kelvin"
+algoritmo "LC01- -Conversor De Celsius para Kelvin"
 
 // Data : 21/08/2020//
 var
@@ -11,5 +11,5 @@ Escreval("Digite a temperatura atual : ")
 Leia(C)
 K <- C + 273.15
 LimpaTela
-Escreval( C , " graus Kelvin é igual a ", K , " graus  Celsius")
+Escreval( C , " graus Kelvin ï¿½ igual a ", K , " graus  Celsius")
 fimalgoritmo

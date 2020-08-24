@@ -1,4 +1,4 @@
-algoritmo "acres para metros quadrados "
+algoritmo "LC01 - Conversor de acres para metros quadrados "
 // Data : 22/08/2020
 
 var
@@ -10,5 +10,5 @@ M <-0
 Escreval("Digite o valor em acres " )
 Leia(A)
 M <- A * 4048.58
-Escreval(A, "  acres  em metros quadrados é igual a : ", M)
+Escreval(A, "  acres  em metros quadrados ï¿½ igual a : ", M)
 fimalgoritmo

@@ -1,4 +1,4 @@
-algoritmo "Porcentagem"
+algoritmo "LC01-Porcentagem"
 
 // Data : 23/08/2020
 
@@ -10,9 +10,9 @@ Valor <- 0
 Horas <- 0
 Acrescimo <- 0
 Escreval("Qual valor da hora de trabalho ?")
-Escreval(" Qual o número de horas de trabalho no mes ?")
+Escreval(" Qual o nï¿½mero de horas de trabalho no mes ?")
 leia(Valor,Horas,)
 Acrescimo <- 1 + 10/100
 Salario <- Valor * Horas + Acrescimo
-Escreval("O  salario liquido a ser pago  é de : ",Salario,"$" )
+Escreval("O  salario liquido a ser pago  ï¿½ de : ",Salario,"$" )
 fimalgoritmo

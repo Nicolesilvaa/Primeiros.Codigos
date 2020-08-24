@@ -1,4 +1,4 @@
-algoritmo "Porcentagem"
+algoritmo "LC01-Porcentagem"
 
 // Data : 23/08/2020
 

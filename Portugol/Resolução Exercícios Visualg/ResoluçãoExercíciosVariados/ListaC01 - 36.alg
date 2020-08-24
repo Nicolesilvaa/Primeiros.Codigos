@@ -1,4 +1,4 @@
-algoritmo "volume de um cilindro"
+algoritmo "LC01-volume de um cilindro"
 
 // Data : 23/08/2020
 
@@ -12,5 +12,5 @@ inicio
  Leia(A,R)
  V <- Pi * Exp(R,2) * A
  LimpaTela
- Escreval("o volume do cilindro em questao é :",V)
+ Escreval("o volume do cilindro em questao ï¿½ :",V)
 fimalgoritmo

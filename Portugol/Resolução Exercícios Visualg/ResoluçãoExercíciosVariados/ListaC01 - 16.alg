@@ -1,4 +1,4 @@
-algoritmo "De polegadas para centimetros"
+algoritmo "LC01-Conversor De polegadas para centimetros"
 // Data : 21/08/2020//
 var
 P,C:Real
@@ -10,5 +10,5 @@ Escreval("Digite a distancia atual : ")
 Leia(P)
 C <- P * 2,54
 LimpaTela
-Escreval(P , " Polegadas é igual a ", C:3:2 , " Centimetros")
+Escreval(P , " Polegadas ï¿½ igual a ", C:3:2 , " Centimetros")
 fimalgoritmo

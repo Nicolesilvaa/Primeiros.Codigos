@@ -1,4 +1,4 @@
-algoritmo "Multiplicação"
+algoritmo "LC01-Multiplicaï¿½ï¿½o"
 
 // Data : 23/08/2020
 
@@ -7,7 +7,7 @@ D,A , Tot:Real
 inicio
 D <- 0
 A <- 0
-Escreval("Qual a altura do degrau? e qual altura voce deseja alcançar ?")
+Escreval("Qual a altura do degrau? e qual altura voce deseja alcanï¿½ar ?")
 leia(D,A)
 Tot <- A/D
 Escreval("Voce devera subir ", Tot, " Degrais" )

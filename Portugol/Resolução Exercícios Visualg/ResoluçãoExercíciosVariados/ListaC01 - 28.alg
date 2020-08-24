@@ -1,4 +1,4 @@
-algoritmo "soma do quadrado"
+algoritmo "LC01-soma do quadrado"
 // Data : 22/08/2020
 
 var
@@ -21,6 +21,6 @@ Q3 <-  Exp(N3,2)
 Q <- Q1 + Q2 + Q3
 LimpaTela
 Escreval("Os valores digitados foram :", N1 , N2 , N3 )
-Escreval("O quadrado desses números ,respectivamente é : ", Q1 , Q2 , Q3)
-Escreval("A soma do quadrados dos números digitados é :", Q)
+Escreval("O quadrado desses nï¿½meros ,respectivamente ï¿½ : ", Q1 , Q2 , Q3)
+Escreval("A soma do quadrados dos nï¿½meros digitados ï¿½ :", Q)
 fimalgoritmo

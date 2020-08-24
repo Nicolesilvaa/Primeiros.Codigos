@@ -1,4 +1,4 @@
-algoritmo "jardas para metros"
+algoritmo "LC01-Conversor de jardas para metros"
 // Data : 22/08/2020
 
 var
@@ -10,5 +10,5 @@ M <-0
 Escreval("Digite o valor em Jardas " )
 Leia(J)
 M <- J * 0.91
-Escreval(J, " jardas em metros  é igual a : ", M)
+Escreval(J, " jardas em metros  ï¿½ igual a : ", M)
 fimalgoritmo

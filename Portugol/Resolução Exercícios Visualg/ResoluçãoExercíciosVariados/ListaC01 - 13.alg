@@ -1,4 +1,4 @@
-algoritmo "De Quilomêtros  para Milhas"
+algoritmo " LC01-Conversor De Quilomï¿½tros  para Milhas"
 // Data : 21/08/2020//
 var
 
@@ -11,5 +11,5 @@ Escreval("Digite a distancia atual : ")
 Leia(K)
 M <- K/1.61
 LimpaTela
-Escreval(K , " Quilomêtros é igual a ", M , " milhas")
+Escreval(K , " Quilomï¿½tros ï¿½ igual a ", M , " milhas")
 fimalgoritmo

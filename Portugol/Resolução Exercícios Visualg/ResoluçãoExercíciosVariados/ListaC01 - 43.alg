@@ -1,4 +1,4 @@
-algoritmo "Porcentagem"
+algoritmo "LC01-Porcentagem"
 
 // Data : 23/08/2020
 
@@ -16,8 +16,8 @@ ProdutoD <- Produto * 1 - 10/100
 Parcelado <- Produto/ 3
 C1 <- ProdutoD * 5/100
 C2 <- Produto * 5/100
-Escreval("O  valor do produto com desconto de 10% é : ",ProdutoD,"$" )
-Escreval("O  valor da parcela do produto em 3x é : ",Parcelado,"$" )
-Escreval("O  valor da comissao do vendendor a vista  é : ",C1,"$" )
-Escreval("O  valor da comissao do vendendor parcelado é : ",C2,"$" )
+Escreval("O  valor do produto com desconto de 10% ï¿½ : ",ProdutoD,"$" )
+Escreval("O  valor da parcela do produto em 3x ï¿½ : ",Parcelado,"$" )
+Escreval("O  valor da comissao do vendendor a vista  ï¿½ : ",C1,"$" )
+Escreval("O  valor da comissao do vendendor parcelado ï¿½ : ",C2,"$" )
 fimalgoritmo

@@ -1,4 +1,4 @@
-algoritmo "Dobro do Antecessor  e triplo do sucessor"
+algoritmo "LC01-Dobro do Antecessor  e triplo do sucessor"
 
 // Data : 22/08/2020
 
@@ -8,13 +8,13 @@ inicio
 A <-0
 S <-0
 N <-0
-Escreval("Digite um número")
+Escreval("Digite um nï¿½mero")
 Leia(N)
 A <- (N * 2)- 1
 S <- (N * 3 ) + 1
 Soma <- A + S
 LimpaTela
-Escreval("O antecessor do dobro de ", N , " é", A  )
-Escreval("O sucessor do triplo de ", N , " é", S  )
-Escreval("A soma dos dois valores acima é igual a ", Soma)
+Escreval("O antecessor do dobro de ", N , " ï¿½", A  )
+Escreval("O sucessor do triplo de ", N , " ï¿½", S  )
+Escreval("A soma dos dois valores acima ï¿½ igual a ", Soma)
 fimalgoritmo
