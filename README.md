@@ -16,6 +16,7 @@
    * ![Resoluções Exercícios Livro Algoritmo Mnazano(Portugol/Visualg)](https://github.com/Nicolesilvaa/Primeiros_Codigos/tree/master/Portugol/Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%20Visualg/Resolu%C3%A7%C3%A3oExerc%C3%ADcios-%20Livro%20Algoritmos-Manzano(Visualg))
    
    * ![Resoluções Exercícios- UFU (Portugol/Visualg)](https://github.com/Nicolesilvaa/Primeiros_Codigos/tree/master/Portugol/Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%20Visualg/Resolu%C3%A7%C3%A3oExerc%C3%ADciosVariados)
+   * ![Exercícios Aleatórios](https://github.com/Nicolesilvaa/Primeiros_Codigos/tree/master/Portugol/Aleat%C3%B3rios)
 
 ***
 
