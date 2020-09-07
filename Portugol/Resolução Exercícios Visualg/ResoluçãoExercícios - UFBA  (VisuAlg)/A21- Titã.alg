@@ -3,7 +3,6 @@ algoritmo "Titã"
 var
 
 Quantidade_titans,Altura_Colossal,Altura_titans_proximos,i: Inteiro
-N : Vetor[1..10] de Inteiro
 inicio
 
 Altura_Colossal <- 0
@@ -17,11 +16,10 @@ leia(Quantidade_titans)
 Escreval("Qual altura desses titans ?")
 Para i  de 1 ate Quantidade_titans faca
    Leia(Altura_titans_proximos)
-   N[i] <- Altura_titans_proximos
-   Se(N[i] >= Altura_Colossal) entao
-      Escreval("KYOJIN!")
-   Senao
-      Escreval("SUSSA")
-   Fimse
 Fimpara
+Se(Altura_titans_proximos >= Altura_Colossal) entao
+   Escreval("KYOJIN!")
+Senao
+   Escreval("SUSSA")
+Fimse
 fimalgoritmo
