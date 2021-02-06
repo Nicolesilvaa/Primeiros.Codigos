@@ -12,10 +12,10 @@
 
    * ![Lista de Exercícios - UFBA](https://github.com/Nicolesilvaa/Primeiros_Codigos/tree/master/Portugol/Exerc%C3%ADcio%20-%20UFBA)
    * ![Lista de exercícios - UFU](https://github.com/Nicolesilvaa/Primeiros_Codigos/tree/master/Portugol/Exerc%C3%ADcios%20-%20variados)
-   * ![Resoluções Exercícios UFBA (Portugol/Visualg)](https://github.com/Nicolesilvaa/Primeiros_Codigos/tree/master/Portugol/Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%20Visualg/Resolu%C3%A7%C3%A3oExerc%C3%ADcios%20-%20UFBA%20%20(VisuAlg))
-   * ![Resoluções Exercícios Livro Algoritmo Mnazano(Portugol/Visualg)](https://github.com/Nicolesilvaa/Primeiros_Codigos/tree/master/Portugol/Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%20Visualg/Resolu%C3%A7%C3%A3oExerc%C3%ADcios-%20Livro%20Algoritmos-Manzano(Visualg))
+   * ![Resoluções Exercícios UFBA ](https://github.com/Nicolesilvaa/Primeiros_Codigos/tree/master/Portugol/Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%20Visualg/Resolu%C3%A7%C3%A3oExerc%C3%ADcios%20-%20UFBA%20%20(VisuAlg))
+   * ![Resoluções Exercícios Livro Algoritmo Manazano](https://github.com/Nicolesilvaa/Primeiros_Codigos/tree/master/Portugol/Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%20Visualg/Resolu%C3%A7%C3%A3oExerc%C3%ADcios-%20Livro%20Algoritmos-Manzano(Visualg))
    
-   * ![Resoluções Exercícios- UFU (Portugol/Visualg)](https://github.com/Nicolesilvaa/Primeiros_Codigos/tree/master/Portugol/Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%20Visualg/Resolu%C3%A7%C3%A3oExerc%C3%ADciosVariados)
+   * ![Resoluções Exercícios- UFU ](https://github.com/Nicolesilvaa/Primeiros_Codigos/tree/master/Portugol/Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%20Visualg/Resolu%C3%A7%C3%A3oExerc%C3%ADciosVariados)
    * ![Exercícios Aleatórios](https://github.com/Nicolesilvaa/Primeiros_Codigos/tree/master/Portugol/Aleat%C3%B3rios)
 
 ***
