@@ -13,10 +13,10 @@
 
    * ![Lista de Exercícios - UFBA](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/Portugol/ListaExerciciosUFBA)
    * ![Lista de exercícios - UFU](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/Portugol/ListaExerciciosUFU)
-   * ![Resoluções Exercícios UFBA ](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/Portugol/Resolu%C3%A7%C3%A3oExerciciosUFBA)
+   * ![Resoluções Exercícios - UFBA ](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/Portugol/Resolu%C3%A7%C3%A3oExerciciosUFBA)
     
-   * ![Resoluções Exercícios Livro Algoritmo Manazano](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/Portugol/ResolucaoEx.Algoritmos.Manzano)
-   * ![Resoluções Exercícios- UFU ](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/Portugol/ResolucaoExerciciosUFU)
+   * ![Resoluções Exercícios - Livro Algoritmo Manazano](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/Portugol/ResolucaoEx.Algoritmos.Manzano)
+   * ![Resoluções Exercícios - UFU ](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/Portugol/ResolucaoExerciciosUFU)
    * ![Exercícios Aleatórios](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/Portugol/Aleatorios)
 
 ***
