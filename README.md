@@ -17,7 +17,7 @@
     
    * ![Resoluções Exercícios Livro Algoritmo Manazano](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/Portugol/ResolucaoEx.Algoritmos.Manzano)
    * ![Resoluções Exercícios- UFU ](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/Portugol/ResolucaoExerciciosUFU)
-   * ![Exercícios Aleatórios](https://github.com/Nicolesilvaa/Primeiros-Codigos/tree/master/Portugol/Aleat%C3%B3rios)
+   * ![Exercícios Aleatórios](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/Portugol/Aleatorios)
 
 ***
 ### _JavaScript_
@@ -26,7 +26,8 @@
 
 ### _C++_
 
-* ![Resoluções Exercícios UFBA](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/C%2B%2B/Resolu%C3%A7%C3%A3o%20exerc%C3%ADcios%20UFBA)
+* ![Resoluções Exercícios UFBA](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/C%2B%2B/ResolucaoExerciciosUFBA)
+*  ![Exercícios Aleatórios](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/C%2B%2B/Aleatorios)
 ***
 ### _Arduino_
 * ![Códigos Simples](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/Arduino)
