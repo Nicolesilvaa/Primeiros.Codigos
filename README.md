@@ -11,8 +11,8 @@
 
 ### _Portugol_
 
-   * ![Lista de Exercícios - UFBA](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/Portugol/ListaExerciciosUFBA)
-   * ![Lista de exercícios - UFU](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/Portugol/ListaExerciciosUFU)
+   * ![Lista de Exercícios - UFBA](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/ListasExercicios/ListaExerciciosUFBA)
+   * ![Lista de exercícios - UFU](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/ListasExercicios/ListaExerciciosUFU)
    * ![Resoluções Exercícios - UFBA ](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/Portugol/Resolu%C3%A7%C3%A3oExerciciosUFBA)
     
    * ![Resoluções Exercícios - Livro Algoritmo Manazano](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/Portugol/ResolucaoEx.Algoritmos.Manzano)
