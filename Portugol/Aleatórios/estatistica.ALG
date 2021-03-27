@@ -1,4 +1,4 @@
-Algoritmo "EstatÌsca com programaÁ„o - Aula de Matem·tica "
+Algoritmo "Estat√≠sca com programa√ß√£o - Aula de Matem√°tica "
 
 // Data atual  : 24/3/2021
 //
@@ -15,7 +15,7 @@ Inicio
    alto <- 0
    pequeno <-0
    altura <- 0
-   Escreval("Ol· usu·rio, digite sua altura ")
+   Escreval("Ol√° usu√°rio, digite sua altura ")
 
    Enquanto i < 5 faca
       i <- i + 1
@@ -27,18 +27,18 @@ Inicio
          Se(vet[i] >= 168)e(vet[i] < 174)entao
             media <- media + 1
          Senao
-            Se(vet[i] >= 174)e (vet[i] <= 180)ent„o
+            Se(vet[i] >= 174)e (vet[i] <= 180)ent√£o
                alto <- alto + 1
             Fimse
          Fimse
       Fimse
    Fimenquanto
-   frequenciaRelativaP <-(pequeno/5)*100
-   frequenciaRelativaM <-(media/5)*100
-   frequenciaRelativaA <-(alto/5)*100
-   Escreval("A frequencia absoluta das pesoas pequenas È ", pequeno , " e a relativa È ", frequenciaRelativaP,"%")
-   Escreval("A frequencia absoluta das pessoas medias È ", media , " e a relativa È ", frequenciaRelativaM,"%")
-   Escreval("A frequencia absoluta das pessoas altas È ", alto , " e a relativa È ", frequenciaRelativaA,"%")
+   frequenciaRelativaP <-pequeno*100/5
+   frequenciaRelativaM <-media*100/5
+   frequenciaRelativaA <-alto*100/5
+   Escreval("A frequencia absoluta das pesoas pequenas √© ", pequeno , " e a relativa √© ", frequenciaRelativaP,"%")
+   Escreval("A frequencia absoluta das pessoas medias √© ", media , " e a relativa √© ", frequenciaRelativaM,"%")
+   Escreval("A frequencia absoluta das pessoas altas √© ", alto , " e a relativa √© ", frequenciaRelativaA,"%")
 
 
 Fimalgoritmo
