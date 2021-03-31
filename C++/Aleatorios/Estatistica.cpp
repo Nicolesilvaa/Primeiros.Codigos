@@ -1,9 +1,15 @@
 #include <iostream>
 #include <iomanip>
 using namespace std;
-int main() {
+/* Código usado para aplicar aula de esatítica da professora Eliana.
+
+ */
+int main() { 
 int frequenciaRelativaP=0, frequenciaRelativaM=0, frequenciaRelativaA=0;
+//Variaveis Qualitativa = altura
+//Amostra = Alto,medio,pequeno
 int i=0, pequeno=0, alto=0, medio=0, altura=0;
+/*População estatística que será amarzenada em um vetor de 5 espaços , logo o valor total é 5 */ 
 int vet[5];
 cout<< "OLÁ USUARIOS, DIGITE SUAS ALTURAS"<< endl;
 
@@ -11,6 +17,7 @@ cout<< "OLÁ USUARIOS, DIGITE SUAS ALTURAS"<< endl;
      cin>> altura;
         vet[i] = altura;
         if(altura >=162 && altura < 168){
+	//Frequência absoluta
            pequeno++; 
         } else if (altura >=168 && altura < 174){
                 medio++;
@@ -18,6 +25,7 @@ cout<< "OLÁ USUARIOS, DIGITE SUAS ALTURAS"<< endl;
                     alto++; 
                   }             
       } 
+//Distribuição de frequências relativas
 frequenciaRelativaP=pequeno*100/5;
 frequenciaRelativaM=medio*100 /5;
 frequenciaRelativaA=alto*100 /5;
