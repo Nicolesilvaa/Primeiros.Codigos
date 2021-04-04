@@ -35,7 +35,7 @@
 ###
 ### _Licença :_
 - ![MIT]( https://github.com/Nicolesilvaa/Programming-Material/blob/master/LICENSE)
-- A "Lista de exercícios da UFBA " foi tirada do site de exercícios do curso básico de Programação, oferecido pelo  grupo " GRUpo de PROgramação", da Universidade Federal da Bahia, no ano de 2019.  ![Mais sobre essa organiação](http://wiki.dcc.ufba.br/GRUPROtmp/AboutUs)
+- A "Lista de exercícios da UFBA " foi tirada do site de exercícios do curso básico de Programação oferecido pelo  grupo " GRUpo de PROgramação", da Universidade Federal da Bahia, no ano de 2019.  ![Saiba mais sobre essa organiação.](http://wiki.dcc.ufba.br/GRUPROtmp/AboutUs)
 
 ### _Autora:_ 
 
