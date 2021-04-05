@@ -5,12 +5,8 @@ using namespace std;
 int main(){
 
 	int number = 0;
-		cout << "Digite um valor"<< endl;
-			cin >> number;
-				bool positivo = (number >= 0) ? true : false; 
-					if(positivo == true){
-						cout << sqrt(number) << endl;
-							}else{
-								cout << "Número inválido " << endl;
-								}	
+	cout << "Digite um valor"<< endl;
+	cin >> number;
+	number >= 0 ?( cout << "A raiz quadrada do valor digitado é " << sqrt(number) << endl) : (cout << "Número inválido" << endl); 
+	
 }
