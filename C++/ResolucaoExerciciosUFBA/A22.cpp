@@ -15,22 +15,25 @@ int main(){
 
 		int i = 0;
 		for(i = 0; i < quantityBoxs; i++){
+
 			cin >> esmerils;
 			vetEsmerils.push_back(esmerils);
 		}
 	cout << "Digite o numero da esmeral do caos\n";
-		for(i = 0; i < quantityBoxs; i++){
-			cin >> chaosEsmeril;
-			for(i = 0; vetEsmerils == chaosEsmeril; i++){
-		        	if(vetEsmerils[i] == chaosEsmeril){
-					break;
-				}else{
-					continue;
-			
-			}cout << chaosEsmeril;
+		cin >> chaosEsmeril;
 
-		}
-	cout << -1;
+		for(i = 0; i < vetEsmerils.size(); i++){
+
+		    if(vetEsmerils[i] == chaosEsmeril){
+			cout << chaosEsmeril << endl;
+			break;
+		}else{	
+			continue;
+
+			}
+	
+	} 
+// Faltou imprimir "-1" caso a esmeralda não fosse escontrada 
+		
 return 0;
-}
 }
