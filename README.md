@@ -27,8 +27,12 @@
 ### _C++_
 
 * ![Resoluções Exercícios UFBA](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/C%2B%2B/ResolucaoExerciciosUFBA)
-*  ![Exercícios Aleatórios](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/C%2B%2B/Aleatorios)
-***
+* ![Exercícios Aleatórios](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/C%2B%2B/Aleatorios)
+
+### _Python_
+
+* ![Exercícios Aleatórios](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/Python)
+
 ### _Arduino_
 * ![Códigos Simples](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/Arduino)
 
