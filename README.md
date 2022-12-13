@@ -37,6 +37,11 @@
 * [Exercícios Aleatórios](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/Python)
 
 ***
+### _Shell Script_
+
+* [Scripts de automatização simples](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/ShellScript)
+
+***
 ### _Arduino_
 * [Sorteio numérico com leds](https://github.com/Nicolesilvaa/Primeiros.Codigos/blob/master/Arduino/Sorteio_numerico_com_led.cpp)
 
@@ -45,7 +50,6 @@
 * [Sensor de proximidade com alarme](https://github.com/Nicolesilvaa/Primeiros.Codigos/blob/master/Arduino/sensor_de_proximidade_alarme1.cpp)
 
   ![Sensor de presença com alarme e led](https://user-images.githubusercontent.com/68083480/207425864-b15db46b-95d7-4036-946d-64bdfeaebe3c.png)
-
 
 ***
 ### _Licença :_
