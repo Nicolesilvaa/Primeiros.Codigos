@@ -1,4 +1,5 @@
 #!/bin/bash
+# script onde será provisionado um servidor web automaticamente.
 
 echo "Atualizando sistema:"
 sudo dnf upgrade -y
