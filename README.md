@@ -21,11 +21,6 @@
    * [Exercícios Aleatórios](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/Portugol/Aleatorios)
 
 ***
-### _JavaScript_
-
-* [Exercícios Aleatórios](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/JavaScript)
-
-***
 ### _C++_
 
 * [Resoluções Exercícios UFBA](https://github.com/Nicolesilvaa/Primeiros.Codigos/tree/master/C%2B%2B/ResolucaoExerciciosUFBA)
